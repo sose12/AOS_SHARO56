@@ -1,13 +1,3 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY faeder                         ▀▄ ▄▀ 
-▀▄ ▄▀     Dev faeder     (@xXxDev_iqxXx    ▀▄ ▄▀ 
-▀▄ ▄▀     ChannelDev     (@dev_faed)       ▀▄ ▄▀ 
-▀▄ ▄▀ Making the file by Memo              ▀▄ ▄▀   
-▀▄ ▄▀ A word against armies :كلمه ضد الجيوش ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
 -- only enable one of them 
 local Kick = true;
 local Warn = false;
@@ -78,4 +68,3 @@ return {
 }
 
 end
--- By Dev Memo (@xXxDev_iqxXx)
