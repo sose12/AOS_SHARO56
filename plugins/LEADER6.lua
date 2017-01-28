@@ -1,13 +1,3 @@
---[[
-▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                                ▀▄ ▄▀ 
-▀▄ ▄▀       BY ANWAR     @xXxDev_iqxXx          ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMED LEADER  @Hamapaiz          ▀▄ ▄▀          
-▀▄ ▄▀ BY         CHNEALL     @Dev_faed           ▀▄ ▄▀   
-▀▄ ▄▀                  المطورين السورس               ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
-
---]]
 do
 
 function run(msg, matches)
@@ -18,19 +8,19 @@ return [[
 يعمل البوت على مجموعات سوبر تصل الى 5 k عضو 🔺
 
      ≪تم صنع البوت بواسطة المطور≫
-                      『  @xXxDev_iqxXx  』
+                      『  @AOSEE_TH  』
                       
-             🔻 LEADER : @hamapaiz 🔺
+            
                       
                       🔺 تابعونا ماهو كل جديد على قناه السورس 🔻
                       
-                      [ @Dev_faed ]
+                      [ @AOSEE_THT ]
                       
-      🔺 للاستفسار :-  @X_x_56_GaHaNaM_56_x_X   🔻
+      🔺 للاستفسار :-  @AOSEE_bot   🔻
                      
-          🔻 DEV:- @D_e_v_faeder_bot  🔺
+        
                      
-                     🔻  SUPPORTBOT :- @Dev_faed. 🔺
+                     🔻  SUPPORTBOT :- @AOSEE_THT. 🔺
 ]]
 end
 
