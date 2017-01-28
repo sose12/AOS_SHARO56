@@ -1,12 +1,3 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY faeder                         ▀▄ ▄▀ 
-▀▄ ▄▀     BY faeder (@xXxDev_iqxXx)        ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY faeder                ▀▄ ▄▀   
-▀▄ ▄▀       broadcast  : اذاعه             ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
 local function run(msg, matches)
 	if matches[1] == 'نشر' and is_admin1(msg) then
 		local response = matches[3]
