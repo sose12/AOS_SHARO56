@@ -1,12 +1,3 @@
---[[ 
-▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                                ▀▄ ▄▀ 
-▀▄ ▄▀       BY ANWAR     @xXxDev_iqxXx          ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMED LEADER  @Hamapaiz          ▀▄ ▄▀          
-▀▄ ▄▀ BY         CHNEALL     @Dev_faed           ▀▄ ▄▀   
-▀▄ ▄▀            مساعدة 2                 ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
-▀--]]
 do
 
 local function leader(msg, matches)
@@ -42,11 +33,6 @@ local S = [[
 ❍  اعدادات الوسائط :🎆{لعرض اعدادات الميديا }
 ❍معلومات المجموعه : 📃{ لعرض معلومات المجموعه}
 ❕❗️❕🌹المطور🌹❗️❕❗️❕
-
-💯-Đєⱴ💀: @xXxDev_iqxXx
-💯-Đєⱴ😎: @hamapaiz
-💯-Đєⱴ💀: @X_x_56_GaHaNaM_56_x_X
-💯-Đєⱴ💀: @D_e_v_faeder_bot
 
 ]]
 reply_msg(reply_id, S, ok_cb, false) 
