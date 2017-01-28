@@ -261,13 +261,12 @@ function create_config( )
     "ar-boomzain",
     "red",
     "redis",
-    "@xXxDev_iqxXx",
+    "@AOSEE_TH",
     "tagall",
     "del",
-    "reply",
-    "ax"
+    "ax",
     },
-    sudo_users = {259142888},--Sudo users
+    sudo_users = {274224436},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[
