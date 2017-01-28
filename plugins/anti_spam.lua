@@ -1,9 +1,3 @@
---[[ BY faeder
-     BY @xXxDev_iqxXx
-     CH > @Dev_faed
---]]
-kicktable = {}
-
 do
 
 local TIME_CHECK = 2 -- seconds
