@@ -1,10 +1,3 @@
---[[ 
-$ :) 
--- - ( BY @xXxDev_iqxXx) - -- 
-
---Channel-( @Dev_faed )-- 
-$ :) 
-]]-- 
 do 
 
 local function iq_abs(msg, matches) 
@@ -37,4 +30,4 @@ return {
 
 end 
 
--- BY - @IQ_ABS 
+-- BY - @AOSEE_TH 
