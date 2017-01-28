@@ -1,12 +1,3 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY faeder                         ▀▄ ▄▀ 
-▀▄ ▄▀     BY faeder (@xXxDev_iqxXx)        ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY faeder                ▀▄ ▄▀   
-▀▄ ▄▀     block word  : منع كلمات          ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
 local function addword(msg, name)
     local hash = 'chat:'..msg.to.id..':badword'
     redis:hset(hash, name, 'newword')
